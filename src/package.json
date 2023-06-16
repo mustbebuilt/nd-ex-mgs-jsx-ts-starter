@@ -1,5 +1,5 @@
 {
-  "name": "basic-node-api",
+  "name": "starter-repo-jsx-ts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "body-parser": "^1.20.2",
     "dotenv": "^16.1.1",
     "express": "^4.18.2",
     "mongodb": "^5.5.0",
