@@ -6,6 +6,6 @@ const router: Router = express.Router();
 // GET /
 
 router.get("/example", (req: Request, res: Response) => {
-  res.render("example", { msg: "Hello World!" });
+  res.send('Hello World!');
 });
 export default router;
